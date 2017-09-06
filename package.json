@@ -1,0 +1,44 @@
+
+{
+    "name": "cordova-plugin-ad-admob-sdk",
+    "version": "1.0.0",
+    "description": "cordova-plugin-ad-admob-sdk",
+    "cordova": {
+      "id": "cordova-plugin-ad-admob-sdk",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cranberrygame/cordova-plugin-ad-admob-sdk.git"
+    },
+    "bugs": {
+      "url": "https://github.com/cranberrygame/cordova-plugin-ad-admob-sdk/issues"
+    },
+    "keywords": [
+      "cordova",
+      "battery",
+      "ecosystem:cordova",
+      "cordova-android",
+      "cordova-amazon-fireos",
+      "cordova-ubuntu",
+      "cordova-ios",
+      "cordova-blackberry10",
+      "cordova-wp7",
+      "cordova-wp8",
+      "cordova-tizen",
+      "cordova-firefoxos"
+    ],
+    "author": "Apache Software Foundation",
+    "license": "Apache-2.0",
+    "engines": [
+        {
+          "name": "cordova",
+          "version": ">=3.0.0"
+        }
+      ],
+    "devDependencies": {
+    }
+  }
